@@ -392,13 +392,14 @@ In /var/www/catalog/catalog/templates/login.html file in following function
 
 **NOTE** : Change the following line in /var/www/catalog/catalog/templates/login.html
 
-<link href=&#39;http://fonts.googleapis.com/css?family=Roboto:400,300,700&#39; rel=&#39;stylesheet&#39;  type=&#39;text/css&#39;>
+&lt;link href=&#39;http://fonts.googleapis.com/css?family=Roboto:400,300,700&#39; rel=&#39;stylesheet&#39;  type=&#39;text/css&#39;\&gt;
 To
-<link href=&#39;https://fonts.googleapis.com/css?family=Roboto:400,300,700&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;>
+&lt;link href=&#39;https://fonts.googleapis.com/css?family=Roboto:400,300,700&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;\&gt;
+
 
 **Steps To Create a Self-Signed SSL Certificate for Apache in Ubuntu 16.04**
 
-All the steps that i have done mentioned in **LinuxConfiguration.docx**
+All the steps that i have done for this step mentioned in **LinuxConfiguration.docx** under same heading
 
 **Reference:**
 
